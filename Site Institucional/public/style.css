@@ -1,5 +1,5 @@
 *{
-    font-family: 'Courier New', Courier, monospace;
+  font-family:  Arial, Helvetica, sans-serif;
 }
 body{
     margin: 0;
@@ -98,13 +98,7 @@ body{
     margin: 0;
     font-size: 30px;
 }
-.formulario{
-    display: flex;
-    height: 90%;
-    width: 80%;
-    justify-content: space-around;
-    flex-direction: column;
-}
+
 .formulario span{
     font-size: 15px;
     font-weight: 800;
